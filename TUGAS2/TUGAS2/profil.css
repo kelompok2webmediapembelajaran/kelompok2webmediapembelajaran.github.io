@@ -1,0 +1,17 @@
+ body {
+    font-size: 13px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bayangan {
+    box-shadow: 5px 5px 15px rgba(23, 22, 20, 0.3);
+}
+.gradien {
+    background: linear-gradient(#fbff15bc 0%, #ffffff 10%, rgba(227, 255, 101, 0.774) 100%);
+}
+svg {
+    margin-top: 40px;
+}
+p {
+    margin-top: 15px;
+    margin-bottom;
+}

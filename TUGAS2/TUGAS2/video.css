@@ -1,0 +1,14 @@
+.halaman {
+    padding-top: 20px;
+    background-color: wheat;
+    color: black;
+    font-family: fantasy;
+}
+.hero {
+    background-image: url(foto/heheh.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+    padding: 20px;
+}

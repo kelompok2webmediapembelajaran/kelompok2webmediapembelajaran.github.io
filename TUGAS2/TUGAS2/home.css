@@ -1,0 +1,29 @@
+body {
+  background-image: url(foto/cvr.png);
+  background-blend-mode: multiply;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: auto;
+  overflow-x: hidden;
+  color: white;
+}
+.smp {
+  margin-top: 150px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-left: 100px;
+}
+h1 {
+  font-size: 110px;
+  font-family: sans-serif;
+  margin-left: -5px;
+  margin-bottom: -20px;
+  font-size: 8vw;
+}
+h3 {
+  font-size: 2.5vw;
+}
+p {
+  font-size: 1vw;
+  margin-top: -10px;
+}

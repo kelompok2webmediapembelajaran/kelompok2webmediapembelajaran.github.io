@@ -1,0 +1,95 @@
+body {}
+
+#background {
+    margin-top: 45px;
+    background: url(foto/cover.png);
+    background-size: cover;
+    padding-top: 100px;
+    height: 600px;
+    min-height: 100vh;
+}
+#background .tampilan {
+    background-color: chocolate;
+    padding-bottom: 50px;
+    padding-top: 40px;
+    border-radius: 15px;
+    font-family: fantasy;
+}
+#background p{
+    text-align: start;
+    margin-left: 125px;
+}
+h1 {
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.custom-shape {
+    height: 50px;
+    width: 50px;
+    color: black;
+    line-height: 50px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.satu {
+    background-color: #FFD8B1;
+}
+
+.dua {
+    background-color: #FFC285;
+}
+
+.tiga {
+    background-color: #FFC07E;
+}
+
+.empat {
+    background-color: #FFD8B1;
+}
+
+.icon-link {
+    color: inherit;
+    display: inline-block;
+}
+.icon-container {
+    margin-top: 8px;
+}
+
+/* untuk bagian materi */
+.text-justify {
+    text-align: justify;
+}
+img {
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+    font-family: fantasy;
+    text-align: center;
+    color: chocolate;
+}
+
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.inilink {
+    text-decoration: none !important;
+    color: inherit;
+}
+footer {
+   background-color:chocolate; 
+   text-align: center; 
+   font-size: 14px; 
+   border-radius: 5px;
+}
